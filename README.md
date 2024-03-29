@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Group Project
+This ELT mini group project involves creating dataframes and a database from Crowdfunding Excel data.
 
 ## Setup
 The following dependencies were used for this project:
@@ -16,3 +16,7 @@ Before running the code file, the environment will need to be updated with the r
 6) Execute 'pip install pandas' to install pandas in the selected environment. 
 7) Execute 'pip install openpyxl' to install openpyxl in the selected environment. 
 
+## Project Instructions
+The following steps were completed in order to complete this project:
+
+### 
