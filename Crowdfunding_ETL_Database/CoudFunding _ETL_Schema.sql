@@ -95,13 +95,6 @@ ALTER TABLE "Campaign" ADD FOREIGN KEY ("category_id") REFERENCES "Category" ("c
 ALTER TABLE "Campaign" ADD FOREIGN KEY ("subcategory_id") REFERENCES "Subcategory" ("subcategory_id");
 
 
-select * from Contacts;
-select * from Category;
-select * from Subcategory;
-select * from Campaign;
-
-
-
 select * from "Contacts";
 select * from "Category";
 select * from "Subcategory";
