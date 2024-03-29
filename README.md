@@ -19,7 +19,7 @@ This project accomplishes the following tasks:
 - **CSV File Creation**:
     - Generates four CSV files (`category.csv`, `subcategory.csv`, `campaign.csv`, `contacts.csv`) from the transformed DataFrames.
 - **Database Design and Integration**:
-    - Designes an ERD and a table schema for the crowdfunding database.
+    - Designs an ERD and a table schema for the crowdfunding database.
     - Creates a PostgreSQL database named `crowdfunding_db`.
     - Implements the table schema within the database, ensuring the correct handling of primary keys, foreign keys, and other constraints.
     - Loads data from the CSV files into the corresponding SQL tables in the database.
