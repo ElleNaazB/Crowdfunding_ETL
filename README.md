@@ -7,10 +7,10 @@ This project focuses on building an ETL (Extract, Transform, Load) pipeline usin
 To accomplish the objectives of this project, a Python environment is required as well as ensuring the following libraries are installed:
 - **Pandas**: For data manipulation and analysis.
 - **PostgreSQL**: For database management.
-- **Numpy**: 
-- **Openpyxl**: 
-- **Json**: 
-- **Re**: 
+- **Numpy**: For mathematical operations on arrays.
+- **Openpyxl**: For reading and writing data.
+- **Json**: For encoding data into JSON data.
+- **Re**: For use of regular expressions for identifying patterns. 
 
 Additionally, the project uses Jupyter notebooks for developing and testing the ETL pipeline.
 
