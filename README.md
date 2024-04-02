@@ -39,9 +39,9 @@ This project accomplishes the following tasks:
 
 ### Deliverables
 The project deliverables include: 
-- The ETL pipeline Jupyter notebooks: <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Ajunjee/ETL_Mini_Project_EBehnia_ASelvam.ipynb "> ASalvam </a> & <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Elle/ETL_Mini_Project_ASelvam_EBehnia.ipynb">EBehnia</a>
-- Four CSV files corresponding to the transformed DataFrames: <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Elle/Resources/campaign.csv"> campaign </a>, <a href ="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Elle/Resources/contacts.csv"> contacts</a>, <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Elle/Resources/category.csv"> category </a>, and <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/tree/Elle/Resources"> subcategory </a>
-- The <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Elle/Crowdfunding_ETL_Database/QuickDBD-Crowdfunding_ETL.png"> ERD sketch and table schema</a> for the crowdfunding database.
-- A PostgreSQL database schema file named<a href= "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/Elle/Crowdfunding_ETL_Database/CoudFunding%20_ETL_Schema.sql">  `crowdfunding_db_schema.sql` </a>. 
+- The ETL pipeline Jupyter notebooks: <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EBehnia_ASelvam.ipynb "> ASalvam </a>
+- Four CSV files corresponding to the transformed DataFrames: <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/campaign.csv"> campaign </a>, <a href ="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/contacts.csv"> contacts</a>, <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/category.csv"> category </a>, and <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/subcategory.csv"> subcategory </a>
+- The <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Crowdfunding_DB_ERD%20Diagram.png"> ERD sketch and table schema</a> for the crowdfunding database.
+- A PostgreSQL database schema file named<a href= "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Crowdfunding_DB_Schema.sql">  `Crowdfunding_DB_Schema.sql` </a>. 
 
 
