@@ -39,8 +39,8 @@ This project accomplishes the following tasks:
 
 ### Deliverables
 The project deliverables include: 
-- The ETL pipeline Jupyter notebook: <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EBehnia_ASelvam.ipynb "> ETL_Mini_Project_EBehnia_ASelvam </a>
-- Four CSV files corresponding to the transformed DataFrames: <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/campaign.csv"> campaign </a>, <a href ="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/contacts.csv"> contacts</a>, <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/category.csv"> category </a>, and <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/subcategory.csv"> subcategory </a>
+- The ETL pipeline Jupyter notebook: <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EBehnia_ASelvam.ipynb "> ETL_Mini_Project_EBehnia_ASelvam </a>.
+- Four CSV files corresponding to the transformed DataFrames: <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/campaign.csv"> campaign </a>, <a href ="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/contacts.csv"> contacts</a>, <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/category.csv"> category </a>, and <a href = "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Resources/subcategory.csv"> subcategory </a>.
 - The <a href="https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Crowdfunding_DB_ERD%20Diagram.png"> ERD sketch and table schema</a> for the crowdfunding database.
 - A PostgreSQL database schema file named<a href= "https://github.com/ElleNaazB/Crowdfunding_ETL/blob/main/Crowdfunding_DB_Schema.sql">  Crowdfunding_DB_Schema.sql </a>. 
 
