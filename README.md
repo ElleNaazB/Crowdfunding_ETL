@@ -10,7 +10,6 @@ To accomplish the objectives of this project, a Python environment is required a
 - **Numpy**: For mathematical operations on arrays.
 - **Openpyxl**: For reading and writing data.
 - **Json**: For encoding data into JSON data.
-- **Re**: For use of regular expressions for identifying patterns. 
 
 Additionally, the project uses Jupyter notebooks for developing and testing the ETL pipeline.
 
